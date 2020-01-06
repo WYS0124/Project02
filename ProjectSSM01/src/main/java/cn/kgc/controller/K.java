@@ -1,0 +1,2 @@
+pubulic class K{
+}
