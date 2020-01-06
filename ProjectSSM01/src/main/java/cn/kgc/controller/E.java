@@ -1,7 +1,8 @@
 package cn.kgc.controller;
 
-public class A {
+public class E {
+
     public static void main(String[] args) {
-        System.out.println("老铁666");
+        System.out.println("hello");
     }
 }
