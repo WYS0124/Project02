@@ -1,2 +1,2 @@
-pubulic class K{
+public class K{
 }
